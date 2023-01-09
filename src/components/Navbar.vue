@@ -23,7 +23,7 @@
       <form class="form-inline ml-auto mr-auto">
         <div class="input-group">
           <input
-            size="50"
+            size="40"
             type="text"
             class="form-control"
             placeholder="Search Items"
